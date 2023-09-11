@@ -1,9 +1,12 @@
+iterm2
 alfred
+git
+node
+visual-studio-code
 alt-tab
 maccy
 rectangle
 appcleaner
 capslocknodelay
-iterm2
 stats
 python@3.11
