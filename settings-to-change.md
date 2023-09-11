@@ -129,8 +129,11 @@ _Keyboard Shortcuts..._
 
 - ### Point & Click 
     tracking speed index 3 (fourth option from left/slow)
+  
     click medium
+
     disable force click and haptic feedback
+
     enable tap click
 
 - ### Scroll & Zoom
