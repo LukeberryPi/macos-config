@@ -1,12 +1,4 @@
-macOS has many default configurations that I disagree with.
-
 this is a list of the settings that I change on a new machine.
-
-some of these configurations depend on apps listed on ./what-to-brew.txt.
-
-trackpad tap to click
-disable emoji keyboard on fn
-disable spotlight shortcut (replace with alfred)
 
 # System Settings
 
@@ -91,10 +83,6 @@ automatically hide and show the menu bar in full screen only
 
 disable automatically rearrange spaces based on most recent use
 
-download tinkertool
-    disable animation when hiding and showing dock
-    disable delay when showing hidden dock
-
 ## Display
 scale to 1496 x 967
 
@@ -147,3 +135,9 @@ _Keyboard Shortcuts..._
 
 - ### Scroll & Zoom
     disable smart zoom
+
+
+
+# Tinker Tool ([download](https://www.bresink.com/osx/0TinkerTool/download.php))
+- disable animation when hiding and showing dock
+- disable delay when showing hidden dock
