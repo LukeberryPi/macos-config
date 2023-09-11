@@ -2,6 +2,6 @@ To install the apps listed in ./what-to-brew.txt, install homebrew by running th
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
-You can clone this repository to your local machine and run the following command to install all the packages described in ./what-to-brew.txt:
+To install all the packages described in ./what-to-brew.txt, clone this repository to your local machine and run the following command:
 
 ```xargs brew install < brew-utilies.txt```
