@@ -14,7 +14,7 @@ disable user interface sound effects
 disable feedback when volume is changed
 
 ## Focus
-enable share across devices (iphone <    macbook)
+enable share across devices (iphone <> macbook)
 
 ## Appearance
 accent color blue
