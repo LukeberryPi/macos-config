@@ -6,10 +6,10 @@ visual-studio-code
 alt-tab
 maccy
 discord
-whatsapp
 google-chrome
 notion
 obs
+mos
 rectangle
 appcleaner
 capslocknodelay
