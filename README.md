@@ -4,4 +4,4 @@ To install the apps listed in ./what-to-brew.txt, install homebrew by running th
 
 To install all the packages described in ./what-to-brew.txt, clone this repository to your local machine and run the following command:
 
-```xargs brew install < brew-utilies.txt```
+```xargs brew install < what-to-brew.txt```
