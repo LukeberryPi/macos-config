@@ -73,8 +73,6 @@ disable all other modules
 disable ask siri
 
 ## Desktop & Dock
-position left
-
 scale effect
 
 enable automatically hide and show the Dock
@@ -96,12 +94,9 @@ turn display off when inactive for 10 minutes
 disable show messages when locked
 
 ## Touch ID & Password
-add more than one finger
+add another finger
 
 enable touch id for everything
-
-## Wallet & Apple Pay
-add credit/debit card
 
 ## Keyboard
 key repeat rate fastest
@@ -112,7 +107,7 @@ enable adjust keyboard brightness in low light
 
 turn keyboard backlight off after inactivity after 5 minutes
 
-press globe key to do nothing
+remap globe key to `ctrl ^`
 
 enable keyboard navigation
 
@@ -123,7 +118,7 @@ _Keyboard Shortcuts..._
     screenshot and recording options ```shift + cmd + 5```
 
 - ### Spotlight
-    disable spotlight (replace with alfred)
+    disable spotlight (replace with raycast)
 
 ## Trackpad
 
@@ -138,9 +133,3 @@ _Keyboard Shortcuts..._
 
 - ### Scroll & Zoom
     disable smart zoom
-
-
-
-# Tinker Tool ([download](https://www.bresink.com/osx/0TinkerTool/download.php))
-- disable animation when hiding and showing dock
-- disable delay when showing hidden dock
